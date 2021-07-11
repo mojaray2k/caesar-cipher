@@ -1,3 +1,3 @@
 # caesar-cipher
 
-In cryptography, a Caesar cipher, also known as Caesar’s cipher, the shift cipher, Caesar’s code or Caesar shift, is one of the simplest and most widely known encryption techniques
+In cryptography, a Caesar cipher, also known as A Caesar Cipher is an old, super simple encryption algorithm that works by shifting each letter in a message a specific number of characters over to create a new message.
